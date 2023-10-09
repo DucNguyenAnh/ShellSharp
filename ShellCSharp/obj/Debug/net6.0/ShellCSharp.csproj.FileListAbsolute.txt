@@ -1,0 +1,15 @@
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\bin\Debug\net6.0\ShellCSharp.exe
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\bin\Debug\net6.0\ShellCSharp.deps.json
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\bin\Debug\net6.0\ShellCSharp.runtimeconfig.json
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\bin\Debug\net6.0\ShellCSharp.dll
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\bin\Debug\net6.0\ShellCSharp.pdb
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ShellCSharp.csproj.AssemblyReference.cache
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ShellCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ShellCSharp.AssemblyInfoInputs.cache
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ShellCSharp.AssemblyInfo.cs
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ShellCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ShellCSharp.dll
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\refint\ShellCSharp.dll
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ShellCSharp.pdb
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ShellCSharp.genruntimeconfig.cache
+C:\Users\Anyaya\Desktop\Shell\ShellCSharp\ShellCSharp\obj\Debug\net6.0\ref\ShellCSharp.dll
